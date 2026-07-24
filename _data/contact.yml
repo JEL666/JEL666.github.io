@@ -1,17 +1,17 @@
 #  The contact options.
 
 - type: github
-  icon: "fab fa-github"
+  icon: "JEL666 github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+#- type: twitter
+#  icon: "fa-brands fa-x-twitter"
 
 - type: email
-  icon: "fas fa-envelope"
+  icon: "JEL666 email"
   noblank: true # open link in current tab
 
 - type: rss
-  icon: "fas fa-rss"
+  icon: "JEL666 rss"
   noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
